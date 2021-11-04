@@ -17,9 +17,10 @@ public class MainMenu : MonoBehaviour
         Debug.Log("QUIT!");
         Application.Quit();
     }
-    public void PlaySound()
+    
+    public void Exit()
     {
-        sonidoboton.Play();
+        SceneManager.LoadScene("Menu");
     }
 
 }
