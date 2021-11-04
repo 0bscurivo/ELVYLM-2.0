@@ -60,6 +60,6 @@ public class Player_Life : MonoBehaviour
 
     private void Restart() // esto carga una escena, especificamente en la que estamos actualmente, es decir, este nivel, este metodo se activa dentro de la animacion de muerte
     {
-        SceneManager.LoadScene("GameOver"); 
+        SceneManager.LoadScene("GameOver_1"); 
     }
 }
