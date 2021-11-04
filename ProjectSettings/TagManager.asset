@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - collect
+  - trap
+  - Time
+  - deathtrap
+  - remord
+  - dement
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Confiner
+  - Water
+  - UI
+  - Piso
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bg
+    uniqueID: 2716432031
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: piso
+    uniqueID: 2078853965
+    locked: 0
+  - name: Jugador
+    uniqueID: 314426203
+    locked: 0
+  - name: enemigo
+    uniqueID: 1886193413
+    locked: 0
